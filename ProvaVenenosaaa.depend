@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1636151625 source:c:\users\pc\desktop\treino codigos\projeto speed jorge\projeto novo menu\provavenenosaaa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1636162703 source:c:\users\pc\desktop\treino codigos\projeto speed jorge\projeto novo menu\provavenenosaaa\produtos.c
+	<stdio.h>
+	"produtos.h"
+
+1636150628 c:\users\pc\desktop\treino codigos\projeto speed jorge\projeto novo menu\provavenenosaaa\menu.h
+	"produtos.h"
+
+1636157101 c:\users\pc\desktop\treino codigos\projeto speed jorge\projeto novo menu\provavenenosaaa\produtos.h
+	<stdbool.h>
+
+1636161717 source:c:\users\pc\desktop\treino codigos\projeto speed jorge\projeto novo menu\provavenenosaaa\menu.c
+	<stdio.h>
+	"produtos.h"
+	"menu.h"
+
